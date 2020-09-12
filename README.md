@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there Im Cyril 👋
+
+Currently Im a Web Developer
+
+You can check me out on [CyrilOwuor](https://cyril-owuor-portfolio.herokuapp.com/)
 
 <!--
 **COdiwuor/COdiwuor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
