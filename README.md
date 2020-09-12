@@ -1,6 +1,6 @@
 ### Hi there Im Cyril 👋
 
-Currently Im a Web Developer
+Currently a Web Developer
 
 You can check me out on [CyrilOwuor](https://cyril-owuor-portfolio.herokuapp.com/)
 
