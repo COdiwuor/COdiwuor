@@ -1,4 +1,4 @@
-### Hi there Im Cyril 👋
+### Hi there I'm Cyril 👋
 
 Currently a Web Developer
 
