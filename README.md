@@ -2,7 +2,7 @@
 
 Currently a Software Developer
 
-You can check me out on [CyrilOwuor](https://cyril-owuor-portfolio.herokuapp.com/)
+You can check me out on [CyrilOwuor](https://cyrilowuor.com/)
 
 ### Programming Languages 🌐
 
