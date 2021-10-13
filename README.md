@@ -1,6 +1,6 @@
 ### Hi there I'm Cyril  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-🌱 Currently a Software Developer
+Currently a Software Developer
 
 You can check me out on [Cyril Owuor](https://cyrilowuor.com/)
 
