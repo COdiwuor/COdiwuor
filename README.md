@@ -2,7 +2,7 @@
 
 Currently a Software Developer
 
-You can check me out on [Cyril Owuor](https://cyrilowuor.com/target = "_blank")
+You can check me out on [Cyril Owuor](https://cyrilowuor.com/)
 
 ### Programming Languages 🌐
 
