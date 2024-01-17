@@ -2,7 +2,7 @@
 
 Console.WriteLine("Currently a Software Developer");
 
-You can check me out on [Cyril Owuor](https://cyrilowuor.netlify.app/)m/)
+You can check me out on [Cyril Owuor](https://cyrilowuor.netlify.app/)
 
 ### Programming Languages 🌐
 
